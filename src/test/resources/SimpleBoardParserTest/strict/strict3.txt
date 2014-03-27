@@ -1,0 +1,18 @@
+   a b c d e f g h i j k l m n o 
+   ----------------------------- 
+01|=     A       J       '     A|
+02|  -   F   "   A   "       - U|
+03|    - O     O W E       -   T|
+04|i N D U C T S ' L A V E   B O|
+05|      L -         M I L K O S|
+06|  "       D O M A I N     N  |
+07|    '       B A N D     ' I  |
+08|=     P R I O R Y     E X E C|
+09|  H E H     '   '       I S  |
+10|  E W E   "       Q I     T  |
+11|  P E E -         A D        |
+12|'     S       '   T   -     F|
+13|    - I     ' R E s O L V E R|
+14|  -   N   A Y U   "       - O|
+15|Z I G G U R A T       '     G|
+16 ----------------------------- 
