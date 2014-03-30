@@ -1,6 +1,6 @@
 # Words With Core
 
-A Java implementation of the GADDAG data structure. Includes a command line utility to determine the highest scoring move for given a board. Classes are included to parse boards from a file.
+A Java implementation of [the GADDAG data structure](GADDAG.pdf?raw=true). Includes a command line utility to determine the highest scoring move for given a board. Classes are included to parse boards from a file.
 
 This is the base (core) library to a larger project that integrates with Words With Friends.
 
